@@ -1,0 +1,5 @@
+1-get data from CSV and TSV (Flat File)
+2-get data from web using Web Scrapng
+3-get text from web as .txt File
+4-get data from API(weather API , facebook API)
+5-get data from online Database 

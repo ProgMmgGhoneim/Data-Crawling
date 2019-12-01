@@ -1,0 +1,2 @@
+select * from glob_temp
+select * from  where local_temp city='Cairo' and Country='Egypt'
